@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/Create/.local/share/virtualenvs/poll-app-5DERUZfc/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": true
+}
