@@ -9,6 +9,7 @@ autopep8 = "*"
 
 [packages]
 django = "*"
+django-widget-tweaks = "*"
 
 [requires]
 python_version = "3.8"
